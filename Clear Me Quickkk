@@ -1,0 +1,32 @@
+Challenge Overview
+Challenge Name: Clear Me Quickkk
+
+Category: Booster / OSINT
+
+Point Value: 150
+
+Author: n0v4
+
+Objective: Identify the semi-autobiographical novel where the culprit of the "1810 London hoax" confessed.
+
+Step 1: Identify the Historical Event
+The prompt mentions a "1810 London hoax." A quick search for this specific date and location points to one of the most famous practical jokes in history: The Berners Street Hoax.
+
+What happened: In November 1810, thousands of people—from chimney sweeps and cake makers to the Governor of the Bank of England—descended upon 54 Berners Street because they had received letters requesting their services or presence.
+
+The Culprit: The hoax was orchestrated by Theodore Hook. He had made a bet with a friend that he could transform any house in London into the most famous address in the city within a week.
+
+Step 2: Identify the "Semi-Autobiographical Novel"
+The prompt states the culprit confessed inside a semi-autobiographical novel decades later.
+
+Theodore Hook was a prolific writer. Researching his bibliography for semi-autobiographical works reveals his 1836 novel titled Gilbert Gurney. In this book, the protagonist performs a massive prank that mirrors the real-life Berners Street Hoax almost perfectly. This served as Hook's "public confession."
+
+Step 3: Formatting the Flag
+The flag format requested is SECE{novel_name}.
+
+Novel Name: Gilbert Gurney
+
+Flag: SECE{gilbert_gurney} (Note: CTF flags are typically lowercase unless specified otherwise, but try both variations if one fails).
+
+Final Solution
+Flag: SECE{gilbert_gurney}
