@@ -1,4 +1,3 @@
-Challenge Overview
 Challenge Name: Clear Me Quickkk
 
 Category: Booster / OSINT
@@ -22,6 +21,8 @@ The prompt states the culprit confessed inside a semi-autobiographical novel dec
 Theodore Hook was a prolific writer. Researching his bibliography for semi-autobiographical works reveals his 1836 novel titled Gilbert Gurney. In this book, the protagonist performs a massive prank that mirrors the real-life Berners Street Hoax almost perfectly. This served as Hook's "public confession."
 
 Step 3: Formatting the Flag
+
+
 The flag format requested is SECE{novel_name}.
 
 Novel Name: Gilbert Gurney
