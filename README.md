@@ -2,8 +2,6 @@
 Write-ups for challenges solved by Team Twinbytes during CTFQuest.
 
 
-# CTFQuest Write-ups — Team Twinbytes
-
 This repository contains detailed write-ups of challenges solved by Team Twinbytes during the CTFQuest Capture The Flag competition.
 
 CTFQuest challenged participants across a wide range of cybersecurity domains, testing both technical depth and problem-solving skills. As a team, we focused not only on solving the challenges but also on understanding the underlying concepts, vulnerabilities, and attack methodologies involved.
